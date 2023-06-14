@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Blog.Core",
+    "\\Blog.Data",
+    "\\Blog.Entity",
+    "\\Blog.Web",
+    "\\Blog.Web\\wwwroot",
+    "\\Blog.Web\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\Blog.Core",
+  "PreviewInSolutionExplorer": false
+}
