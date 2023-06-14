@@ -1,0 +1,12 @@
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Service\bin\Debug\net6.0\Blog.Service.deps.json
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Service\bin\Debug\net6.0\Blog.Service.dll
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Service\bin\Debug\net6.0\Blog.Service.pdb
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Service\obj\Debug\net6.0\Blog.Service.csproj.AssemblyReference.cache
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Service\obj\Debug\net6.0\Blog.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Service\obj\Debug\net6.0\Blog.Service.AssemblyInfoInputs.cache
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Service\obj\Debug\net6.0\Blog.Service.AssemblyInfo.cs
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Service\obj\Debug\net6.0\Blog.Service.csproj.CoreCompileInputs.cache
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Service\obj\Debug\net6.0\Blog.Service.dll
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Service\obj\Debug\net6.0\refint\Blog.Service.dll
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Service\obj\Debug\net6.0\Blog.Service.pdb
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Service\obj\Debug\net6.0\ref\Blog.Service.dll

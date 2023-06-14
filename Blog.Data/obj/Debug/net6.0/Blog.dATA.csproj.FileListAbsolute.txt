@@ -1,0 +1,17 @@
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\bin\Debug\net6.0\Blog.dATA.deps.json
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\bin\Debug\net6.0\Blog.dATA.dll
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\bin\Debug\net6.0\Blog.dATA.pdb
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\bin\Debug\net6.0\Blog.Core.dll
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\bin\Debug\net6.0\Blog.Entity.dll
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\bin\Debug\net6.0\Blog.Entity.pdb
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\bin\Debug\net6.0\Blog.Core.pdb
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\obj\Debug\net6.0\Blog.dATA.csproj.AssemblyReference.cache
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\obj\Debug\net6.0\Blog.dATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\obj\Debug\net6.0\Blog.dATA.AssemblyInfoInputs.cache
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\obj\Debug\net6.0\Blog.dATA.AssemblyInfo.cs
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\obj\Debug\net6.0\Blog.dATA.csproj.CoreCompileInputs.cache
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\obj\Debug\net6.0\Blog.dATA.csproj.CopyComplete
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\obj\Debug\net6.0\Blog.dATA.dll
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\obj\Debug\net6.0\refint\Blog.dATA.dll
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\obj\Debug\net6.0\Blog.dATA.pdb
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\obj\Debug\net6.0\ref\Blog.dATA.dll
