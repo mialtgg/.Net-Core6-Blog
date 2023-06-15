@@ -9,6 +9,7 @@
       "Blog.dATA/1.0.0": {
         "dependencies": {
           "Blog.Entity": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.7"
         },
         "runtime": {
@@ -612,13 +613,17 @@
         }
       },
       "Blog.Core/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.7"
+        },
         "runtime": {
           "Blog.Core.dll": {}
         }
       },
       "Blog.Entity/1.0.0": {
         "dependencies": {
-          "Blog.Core": "1.0.0"
+          "Blog.Core": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.7"
         },
         "runtime": {
           "Blog.Entity.dll": {}

@@ -1155,6 +1155,48 @@
             "rid": "win"
           }
         }
+      },
+      "Blog.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.7"
+        },
+        "compile": {
+          "bin/placeholder/Blog.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Blog.Core.dll": {}
+        }
+      },
+      "Blog.dATA/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Blog.Entity": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.7",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.7"
+        },
+        "compile": {
+          "bin/placeholder/Blog.dATA.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Blog.dATA.dll": {}
+        }
+      },
+      "Blog.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Blog.Core": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.7"
+        },
+        "compile": {
+          "bin/placeholder/Blog.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Blog.Entity.dll": {}
+        }
       }
     }
   },
@@ -3500,10 +3542,26 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Blog.Core/1.0.0": {
+      "type": "project",
+      "path": "../Blog.Core/Blog.Core.csproj",
+      "msbuildProject": "../Blog.Core/Blog.Core.csproj"
+    },
+    "Blog.dATA/1.0.0": {
+      "type": "project",
+      "path": "../Blog.dATA/Blog.dATA.csproj",
+      "msbuildProject": "../Blog.dATA/Blog.dATA.csproj"
+    },
+    "Blog.Entity/1.0.0": {
+      "type": "project",
+      "path": "../Blog.Entity/Blog.Entity.csproj",
+      "msbuildProject": "../Blog.Entity/Blog.Entity.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Blog.dATA >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.7",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.7",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.7"
@@ -3536,7 +3594,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\Blog.dATA\\Blog.dATA.csproj": {
+              "projectPath": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\Blog.dATA\\Blog.dATA.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

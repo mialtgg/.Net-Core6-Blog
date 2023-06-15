@@ -85,3 +85,9 @@ C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Web\bin\Debug\net6.0\Syste
 C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Web\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Web\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Web\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Web\bin\Debug\net6.0\Blog.Core.dll
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Web\bin\Debug\net6.0\Blog.dATA.dll
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Web\bin\Debug\net6.0\Blog.Entity.dll
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Web\bin\Debug\net6.0\Blog.dATA.pdb
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Web\bin\Debug\net6.0\Blog.Core.pdb
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Web\bin\Debug\net6.0\Blog.Entity.pdb

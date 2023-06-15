@@ -1050,6 +1050,9 @@
       "Blog.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.7"
+        },
         "compile": {
           "bin/placeholder/Blog.Core.dll": {}
         },
@@ -1061,7 +1064,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Blog.Core": "1.0.0"
+          "Blog.Core": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.7"
         },
         "compile": {
           "bin/placeholder/Blog.Entity.dll": {}
@@ -3253,6 +3257,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Blog.Entity >= 1.0.0",
+      "Microsoft.EntityFrameworkCore >= 7.0.7",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.7"
     ]
   },
@@ -3299,6 +3304,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[7.0.7, )"
+          },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[7.0.7, )"
