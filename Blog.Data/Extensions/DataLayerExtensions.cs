@@ -1,0 +1,21 @@
+﻿using Blog.dATA.Repositories.Abstractions;
+using Blog.dATA.Repositories.Concretes;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Blog.dATA.Extentions
+{
+   public static class DataLayerExtensions
+    {
+        public static IServiceCollection LoadDatLayerExtention(this IServiceCollection services, IConfiguration config)
+        {
+            services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+            return services;
+        }
+    }
+}

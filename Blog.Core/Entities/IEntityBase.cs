@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Blog.Core.Entities
 {
-  public class IEntityBase
+   public class IEntityBase
     {
+
+
     }
 }
