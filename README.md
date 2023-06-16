@@ -7,5 +7,5 @@
 5-Generic Repository Pattern ve Dependency Injection
 6-Unitofwork Yapısının Generic Şekilde Kurulması
 
-### Video serisi linki
-[Link metni](https://www.youtube.com/watch?v=Lpo0avv3g-Q&list=PLrSCwxkucNmxFrrAsGm14Z-5Cu52MKrNr)
+### Video serisi 
+[Video serisi linki](https://www.youtube.com/watch?v=Lpo0avv3g-Q&list=PLrSCwxkucNmxFrrAsGm14Z-5Cu52MKrNr)
