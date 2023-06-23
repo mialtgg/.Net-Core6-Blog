@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Blog.Data",
+    "\\Blog.Data\\Extensions",
+    "\\Blog.Web"
   ],
-  "SelectedNode": "\\BlogSite.sln",
+  "SelectedNode": "\\Blog.Web\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
