@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HU4yhMAyPU4b0r14n/twXqhuu5KuHgL7C9Fe4i3Sw3hcRXD8jk6ksPJZOg+P45U8eSxgL9Os2sABgrCf7Jw9aA==",
+  "dgSpecHash": "rl6GIblBvI59UP0GNoJpzqJc4uPRZ9GGUBwm7wFj2JdO259p9wD9Y4nY88nB7CwChtYw01zA1oOeraBXLc0zqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\Blog.Entity\\Blog.Entity.csproj",
+  "projectFilePath": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\.Net-Core6-Blog\\Blog.Entity\\Blog.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mialt\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.7\\microsoft.entityframeworkcore.7.0.7.nupkg.sha512",
     "C:\\Users\\mialt\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.7\\microsoft.entityframeworkcore.abstractions.7.0.7.nupkg.sha512",

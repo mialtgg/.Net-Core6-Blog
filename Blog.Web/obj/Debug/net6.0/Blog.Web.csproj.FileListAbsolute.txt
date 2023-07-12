@@ -91,3 +91,14 @@ C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Web\bin\Debug\net6.0\Blog.
 C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Web\bin\Debug\net6.0\Blog.dATA.pdb
 C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Web\bin\Debug\net6.0\Blog.Core.pdb
 C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.Web\bin\Debug\net6.0\Blog.Entity.pdb
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\.Net-Core6-Blog\Blog.Web\obj\Debug\net6.0\Blog.Web.csproj.AssemblyReference.cache
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\.Net-Core6-Blog\Blog.Web\obj\Debug\net6.0\Blog.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\.Net-Core6-Blog\Blog.Web\obj\Debug\net6.0\Blog.Web.AssemblyInfoInputs.cache
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\.Net-Core6-Blog\Blog.Web\obj\Debug\net6.0\Blog.Web.AssemblyInfo.cs
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\.Net-Core6-Blog\Blog.Web\obj\Debug\net6.0\Blog.Web.csproj.CoreCompileInputs.cache
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\.Net-Core6-Blog\Blog.Web\obj\Debug\net6.0\Blog.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\.Net-Core6-Blog\Blog.Web\obj\Debug\net6.0\Blog.Web.RazorAssemblyInfo.cache
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\.Net-Core6-Blog\Blog.Web\obj\Debug\net6.0\Blog.Web.RazorAssemblyInfo.cs
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\.Net-Core6-Blog\Blog.Web\obj\Debug\net6.0\Blog.Web.dll
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\.Net-Core6-Blog\Blog.Web\obj\Debug\net6.0\refint\Blog.Web.dll
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\.Net-Core6-Blog\Blog.Web\obj\Debug\net6.0\Blog.Web.pdb

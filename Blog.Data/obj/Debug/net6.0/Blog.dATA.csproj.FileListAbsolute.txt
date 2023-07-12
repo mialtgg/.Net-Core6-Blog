@@ -15,3 +15,11 @@ C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\obj\Debug\net6.0\Blog
 C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\obj\Debug\net6.0\refint\Blog.dATA.dll
 C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\obj\Debug\net6.0\Blog.dATA.pdb
 C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\Blog.dATA\obj\Debug\net6.0\ref\Blog.dATA.dll
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\.Net-Core6-Blog\Blog.dATA\obj\Debug\net6.0\Blog.dATA.csproj.AssemblyReference.cache
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\.Net-Core6-Blog\Blog.dATA\obj\Debug\net6.0\Blog.dATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\.Net-Core6-Blog\Blog.dATA\obj\Debug\net6.0\Blog.dATA.AssemblyInfoInputs.cache
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\.Net-Core6-Blog\Blog.dATA\obj\Debug\net6.0\Blog.dATA.AssemblyInfo.cs
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\.Net-Core6-Blog\Blog.dATA\obj\Debug\net6.0\Blog.dATA.csproj.CoreCompileInputs.cache
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\.Net-Core6-Blog\Blog.dATA\obj\Debug\net6.0\Blog.dATA.dll
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\.Net-Core6-Blog\Blog.dATA\obj\Debug\net6.0\refint\Blog.dATA.dll
+C:\Users\mialt\OneDrive\Masaüstü\.net\BlogSite\.Net-Core6-Blog\Blog.dATA\obj\Debug\net6.0\Blog.dATA.pdb

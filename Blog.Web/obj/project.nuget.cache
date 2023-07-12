@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ArtpBIHH23ZwF7tzrhtD1nx+u4HTn2y6XIBCs6c1STLytIYaugN6lQHv0+1yv+5ddv6w0f/QAhHVKVOy+jXFYQ==",
+  "dgSpecHash": "K3mvKzdJvl/MBf0p2dxjaITO27FTjUWz3s6wQ/mn4sPE2PexHshSka7gPoSRCNTfN4GhVxY1p++0a0H9s8Lhmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\Blog.Web\\Blog.Web.csproj",
+  "projectFilePath": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\.Net-Core6-Blog\\Blog.Web\\Blog.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mialt\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mialt\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

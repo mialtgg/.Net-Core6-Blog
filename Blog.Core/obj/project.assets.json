@@ -567,11 +567,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\Blog.Core\\Blog.Core.csproj",
+      "projectUniqueName": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\.Net-Core6-Blog\\Blog.Core\\Blog.Core.csproj",
       "projectName": "Blog.Core",
-      "projectPath": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\Blog.Core\\Blog.Core.csproj",
+      "projectPath": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\.Net-Core6-Blog\\Blog.Core\\Blog.Core.csproj",
       "packagesPath": "C:\\Users\\mialt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\Blog.Core\\obj\\",
+      "outputPath": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\.Net-Core6-Blog\\Blog.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mialt\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1197,6 +1197,20 @@
         "runtime": {
           "bin/placeholder/Blog.Entity.dll": {}
         }
+      },
+      "Blog.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Blog.Entity": "1.0.0",
+          "Blog.dATA": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Blog.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Blog.Service.dll": {}
+        }
       }
     }
   },
@@ -3557,10 +3571,16 @@
       "type": "project",
       "path": "../Blog.Entity/Blog.Entity.csproj",
       "msbuildProject": "../Blog.Entity/Blog.Entity.csproj"
+    },
+    "Blog.Service/1.0.0": {
+      "type": "project",
+      "path": "../Blog.Service/Blog.Service.csproj",
+      "msbuildProject": "../Blog.Service/Blog.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Blog.Service >= 1.0.0",
       "Blog.dATA >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.7",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.7",
@@ -3573,11 +3593,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\Blog.Web\\Blog.Web.csproj",
+      "projectUniqueName": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\.Net-Core6-Blog\\Blog.Web\\Blog.Web.csproj",
       "projectName": "Blog.Web",
-      "projectPath": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\Blog.Web\\Blog.Web.csproj",
+      "projectPath": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\.Net-Core6-Blog\\Blog.Web\\Blog.Web.csproj",
       "packagesPath": "C:\\Users\\mialt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\Blog.Web\\obj\\",
+      "outputPath": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\.Net-Core6-Blog\\Blog.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mialt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3595,8 +3615,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\Blog.dATA\\Blog.dATA.csproj": {
-              "projectPath": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\Blog.dATA\\Blog.dATA.csproj"
+            "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\.Net-Core6-Blog\\Blog.dATA\\Blog.dATA.csproj": {
+              "projectPath": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\.Net-Core6-Blog\\Blog.dATA\\Blog.dATA.csproj"
+            },
+            "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\.Net-Core6-Blog\\Blog.Service\\Blog.Service.csproj": {
+              "projectPath": "C:\\Users\\mialt\\OneDrive\\Masaüstü\\.net\\BlogSite\\.Net-Core6-Blog\\Blog.Service\\Blog.Service.csproj"
             }
           }
         }
